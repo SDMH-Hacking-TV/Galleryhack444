@@ -12,7 +12,7 @@
 
 >bash install.sh
 
->python galleryhack.py
+>Next Command Joint FB Group.
 
 >Sent To victim Gahack.py File And Run Victim's Phone 
 
